@@ -45,16 +45,21 @@ Among of the goals of both courses there are:
 * Start challenging yourself on how to assess others' learning (via quizzes);
 
 ## Credit Calculation
-**1hp credit** for the weeks you give the seminar
-*(this corresponds to about 3 full days of effective work, concretely 25 yours preparing and 2 hours attending the seminar)*
-**0.5hp credit** for the qeeks you attend seminars 
-*(this corresponds to almost 2 full days of work, so you are supposed to spend around 10 hours studying the paper and preparing for the seminar, and 2 yours for attending)* 
+**1.5hp credit** for preparing and giving a seminar
+*(this corresponds to a full week of work, concretely 25 yours preparing for the seminar presentation, 3 hours for quiz-related tasks, 10 hours for writing a report, and 2 hours attending the seminar)*
+**0.5hp credit** for preparing for, and attending a seminar 
+*(this corresponds to almost 2 full days of work, so you are supposed to spend around 10 hours studying the paper and preparing for the quiz and the post-seminar discussion, and 2 yours for attending)* 
+**0.25hp credit** for giving feedback on a peers'report 
+*(around 6 hours for reading and writing feedback)* 
+
 
 ## Passing The Course
 To pass the course you need to satisfy all the following points:
-- attend all seminars;
+- attend at least 10 seminars;
 - present the sminar(s) assignmened to you; 
 - get at least 5 (out of 10) points at each quiz;
+- provide feedback to at last 2 reports;
+- 'gain' 7.5 credits (either by attending all the seminars or by giving feedback to additional reports)
 
-// 4 ppl -> 2 seminars each = 6hp
-// 10ppl -> 2 seminars each = 6hp
+// 1.5 + 0.5 + 0.5x10 = 7.5 (1 seminar given, 2 feedback, 10 seminars attended) -> 11 students or more (at least 11 weeks)~2 and a half months!
+// 1.5x2+0.5+0.5x8 = 7.5 (each studnet gives 2 seminars) -> 5 students or more (at least 10 weeks)
