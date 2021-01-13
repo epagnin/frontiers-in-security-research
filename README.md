@@ -23,7 +23,7 @@ The paper must be **accepted for publication** in one of the **major conferences
 (e.g., you can pick a paper that appeared at CRYPTO18, CRYPTO19 and CRYPTO20, but not from 2017 or before). 
 
 Conferences that are OK by default are: 
-CRYPTO, EUROCRYPT, ASIACRYPT, PKC, TCC, CT-RSA, IEEE S&P, PETs, CHES.
+ASIACRYPT, CHES, CRYPTO, CT-RSA, EUROCRYPT, PETs, PKC, IEEE S&P, TCC, USENIX.
 
 If you wish to present a paper from a different venue contact me with a valid argument and I may make an exception.
 
