@@ -1,11 +1,18 @@
 # frontiers-in-security-research
 This is a **7.5hp credits PhD-level course** held by LTH. The course is in *seminar-style*: each participant will hold 1 or 2 seminars and actively participate in all other seminars. For quality assessment there are several additoinal tasks entailed with each seminar.
 
-## Course Calendar
-One seminar a week
+## Course Calendarp
+All seminars are held on Fridays 14:00-16:00, unless otherwise peciefied.
+A zoom link to attend remotely will be posted here.
+The course starts on week 8 (Feburary 26th).
 
 ### Schedule
 Date, time: speaker - paper title (link to paper, link to report)
+| Date  | Speaker  | Paper Title  | Report  | 
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 ## General Insturctions
 0. You select one paper from a top conference. Be sure to pick a work you find interesting and that has important contribution
