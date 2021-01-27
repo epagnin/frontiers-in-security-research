@@ -10,9 +10,17 @@ The course starts on **week 8 (Feburary 26th)**.
 Date, time: speaker - paper title (link to paper, link to report)
 | Date  | Speaker  | Paper Title  | Report  | 
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Feb 26  |   |   |   |
+| March 5  |   |   |   |
+| March 12  |   |   |   |
+| March 19  |   |   |   |
+| March 26  |   |   |   |
+| April 9  |   |   |   |
+| April 23  |   |   |   |
+| May 7  |   |   |   |
+| May 28  |   |   |   |
+| June 4  |   |   |   |
+
 
 ## General Insturctions
 0. You select one paper from a top conference _(see list below)_. Be sure to pick a work you find interesting and that has important contributions
