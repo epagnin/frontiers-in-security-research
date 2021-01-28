@@ -10,14 +10,14 @@ The course starts on **week 8 (Feburary 26th)**.
 Date, time: speaker - paper title (link to paper, link to report)
 | Date  | Speaker  | Paper Title  | Report  | 
 |---|---|---|---|
-| Feb 26  |   |   |   |
-| March 5  |   |   |   |
-| March 12  |   |   |   |
-| March 19  |   |   |   |
-| March 26  |   |   |   |
-| April 9  |   |   |   |
-| April 23  |   |   |   |
-| May 7  |   |   |   |
+| Feb 26  | Samuel Wairimu  |   |   |
+| March 5  | Rohon Kundu  |   |   |
+| March 12  | Anders Konring  |   |   |
+| March 19  | Syafiq Al Atiiq  |   |   |
+| March 26  | Jing Yang  |   |   |
+| April 9  | Navoda Senavirathne  |   |   |
+| April 23  | Mathias Hall-Andersen  |   |   |
+| May 7  | Ivan Oleynikov  |   |   |
 | May 28  |   |   |   |
 | June 4  |   |   |   |
 
