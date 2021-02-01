@@ -18,8 +18,8 @@ Date, time: speaker - paper title (link to paper, link to report)
 | April 9  | Navoda Senavirathne  |   |   |
 | April 23  | Mathias Hall-Andersen  |   |   |
 | May 7  | Ivan Oleynikov  |   |   |
-| May 28  |   |   |   |
-| June 4  |   |   |   |
+| May 28  | Rasmus Dahlberg  |   |   |
+| June 4  | Joakim Brorsson  |   |   |
 
 
 ## General Insturctions
