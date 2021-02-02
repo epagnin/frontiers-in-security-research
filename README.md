@@ -19,13 +19,17 @@ Date, time: speaker - paper title (link to paper, link to report)
 | May 28  | Rasmus Dahlberg  |   |   |
 | June 4  | Joakim Brorsson  |   |   |
 
+#### Meeting Structure
+| 14:00-14:15 | take the quiz the first time 
+| 14:15-15:00-ish | seminar presentation
+|15:00-15:40-ish | research discussion, Q&A
+|15:40-16:00 | take the quiz the second time and discuss the results
 
 ## General Insturctions
 0. You select one paper from a top conference _(see list below)_. Be sure to pick a work you find interesting and that has important contributions
 1. Write a one-page **report/review** on the paper _(see instructions below)_ 
 2. Send the paper, your report and a short summary of **why** you chose this work to me (Elena) _(this needs to be done at least 2 weeks before your seminar slot)_
-2. Get an approval for your choice by me. _(if this does not arrive within 2 days, send me a reminder)_
-3. Upload the information about your seminar to this github page _(this includes the time/date of the seminar; speaker's name, the paper's title, author list and venue; and links to the paper and the report)_
+3. Get an approval for your choice by me. _(if this does not arrive within 2 days, send me a reminder)_
 4. Prepare a **50 minutes presentation** about the work you selected
 5. Prepare a **quiz** to assess your peers' learning of your topic
 6. Get my approaval for the quiz you designed _(send the quiz to me at least 3 days before the seminar)_
@@ -53,7 +57,12 @@ If you wish to present a paper from a different venue contact me with a valid ar
 * The quiz should have **7 multiple choice questions**.
 * The first 3 questions will be worth 2 points and should be of a more general character.
 * The last 4 questions are worth 1 point each and go deeper into the paper.
+Everyone will take the same quiz twice. Once right before the seminar and once at the end of the research discussion. 
+You can choose your favourite quiz platform (it might be fun to experiment with new things!) as long as: 
 
+1. answers to quizzes are NOT anonymous (we want to be able to see every students' answers)
+2. the correct answer is are not immediately displayed (this is because the quiz will be taken twice)
+3. it should be possible to re-take the quiz (in the end of the lecture)
 
 ## Writing the Report
 The structure of your report shouold be similar to a paper review: 
@@ -88,10 +97,7 @@ To make sure you come prepared to the seminars, you will have to answer a quiz f
 **0.75hp credit** for preparing for, attending and giving feedback to a seminar 
 *(this corresponds to almost 3 days of work: 12 hours studying the paper, preparing for the quiz and the post-seminar discussion; 5 hours for writing feedback; and 2 yours for attending the seminar)* 
 
-
-## Passing The Course
+## Passing the Course and Attendance
 Attend and give enough seminars to gain 7.5 credits:
 
-* 1.5 + 0.75x8 = 7.5 (1 seminar given, 8 seminars attended) -> 9 students or more (at least 9 weeks ~ spread over 3 months)
-
-* 2x(1.5 + 0.75x3) = 7.5 (each student gives 2 seminars, attends the rest) -> 4 students or more (at least 8 weeks ~ spread over 2 or 3 months)
+1.5hp x 1 + 0.75hp x 8 = 7.5hp (1 seminar given, 8 seminars attended) -> you can skip up to 1 meeting.
