@@ -20,10 +20,10 @@ Date, time: speaker - paper title (link to paper, link to report)
 | June 4  | Joakim Brorsson  |   |   |
 
 #### Meeting Structure
-| 14:00-14:15 | take the quiz the first time 
-| 14:15-15:00-ish | seminar presentation
-|15:00-15:40-ish | research discussion, Q&A
-|15:40-16:00 | take the quiz the second time and discuss the results
+| 14:00-14:15 | take the quiz the first time |
+| 14:15-15:00-ish | seminar presentation |
+|15:00-15:40-ish | research discussion, Q&A |
+|15:40-16:00 | take the quiz the second time and discuss the results |
 
 ## General Insturctions
 0. You select one paper from a top conference _(see list below)_. Be sure to pick a work you find interesting and that has important contributions
