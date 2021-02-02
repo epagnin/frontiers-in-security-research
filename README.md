@@ -2,9 +2,7 @@
 This is a **7.5hp credits PhD-level course** held by LTH. The course is in *seminar-style*: each participant will hold 1 or 2 seminars and actively participate in all other seminars. For quality assessment there are several additional tasks entailed with each seminar.
 
 ## Course Calendar
-All seminars are held on **Fridays 14:00-16:00**, unless otherwise peciefied.
-A zoom link to attend remotely will be posted here.
-The course starts on **week 8 (Feburary 26th)**.
+All seminars are held on **Fridays 14:00-16:00**, unless otherwise peciefied; are *onlive* (i.e., live + online) at this [zoom link](https://lu-se.zoom.us/j/68780371625).
 
 ### Schedule
 Date, time: speaker - paper title (link to paper, link to report)
@@ -51,15 +49,26 @@ If you wish to present a paper from a different venue contact me with a valid ar
 
 **Critical Summary** - personal take on the paper and the importance of its results
 
-### Learning Assesment 
-To make sure you come prepared to the seminars, you will have to answer a quiz for every seminar. In addition, the speaker needs to provide a report on the chosen paper, and each attendee needs to provide a short feedack on each report or on the oral presentation. 
-
-### Quiz Instructions
+## Quiz Instructions
 * The quiz should have **7 multiple choice questions**.
 * The first 3 questions will be worth 2 points and should be of a more general character.
 * The last 4 questions are worth 1 point each and go deeper into the paper.
 
-### Learning Objectives
+
+## Writing the Report
+The structure of your report shouold be similar to a paper review: 
+- summary of the paper's contributions
+- importance of the presented results in the field
+- what is good about it
+- what is bad or could be improved
+The report is expected to be around **1 page long**.
+
+## Feedback
+For every seminar, half of the students will give a written feedback on the speaker's report, the other half gives a written feedback on the oral presentation. 
+Concretely: associate to every student its speaker number, e.g., Samuel =1 , Rohon = 2 etc. 
+For seminar/speaker `n`, students `n-2,n-1,n+1, and n+2 (mod 10)` prepare **written feedback on the presentation**; everyone else **writes feedback on the speaker's written report**. All feedback is emailed to the speaker (with Elena in cc).
+
+## Learning Objectives
 * Learning how to recongnize good papers;
 * Training your ability to assess learning via quizzes;
 * Exercising your presenter’s skills, both to a general/introductory level and towards more technical/detailed jeargon; 
@@ -68,16 +77,9 @@ To make sure you come prepared to the seminars, you will have to answer a quiz f
 * Improve your abilities of giving and receiving feedback;
 * Starting to challenge yourself with how to assess others' learning (via quizzes).
 
-### Writing the Report
-The structure of your report shouold be similar to a paper review: 
-- summary of the paper's contributions
-- importance of the presented results in the field
-- what is good about it
-- what is bad or could be improved
-The report is expected to be around **1 page long**.
+## Learning Assesment 
+To make sure you come prepared to the seminars, you will have to answer a quiz for every seminar. In addition, the speaker needs to provide a report on the chosen paper, and each attendee needs to provide a short feedack on each report or on the oral presentation. 
 
-### Feedback
-For every seminar, half of the students will give a written feedback on the speaker's report, the other half gives a written feedback on the oral presentation. 
 
 ## Credit Calculation
 **1.5hp credit** for preparing and giving a seminar 
