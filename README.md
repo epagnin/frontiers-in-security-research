@@ -19,7 +19,7 @@ Date, time: speaker - paper title (link to paper, link to report)
 | May 28  | Rasmus Dahlberg  |   |   |
 | June 4  | Joakim Brorsson  |   |   |
 
-#### Meeting Structure
+### Meeting Structure
 | Time  | Activity  | 
 |---|---|
 | 14:00-14:15 | take the quiz the first time |
@@ -61,6 +61,7 @@ If you wish to present a paper from a different venue contact me with a valid ar
 * The quiz should have **7 multiple choice questions**.
 * The first 3 questions will be worth 2 points and should be of a more general character.
 * The last 4 questions are worth 1 point each and go deeper into the paper.
+
 Everyone will take the same quiz twice. Once right before the seminar and once at the end of the research discussion. 
 You can choose your favourite quiz platform (it might be fun to experiment with new things!) as long as: 
 
@@ -79,7 +80,7 @@ The report is expected to be around **1 page long**.
 ## Feedback
 For every seminar, half of the students will give a written feedback on the speaker's report, the other half gives a written feedback on the oral presentation. 
 Concretely: associate to every student its speaker number, e.g., Samuel =1 , Rohon = 2 etc. 
-For seminar/speaker `n`, students `n-2,n-1,n+1, and n+2 (mod 10)` prepare **written feedback on the presentation**; everyone else **writes feedback on the speaker's written report**. All feedback is emailed to the speaker (with Elena in cc).
+For seminar/speaker `n`, students `n-2,n-1,n+1, and n+2 (mod 10)` prepare a **written feedback on the presentation**; everyone else **writes feedback on the speaker's written report**. All feedback should be emailed to the speaker (with Elena in cc) within 3 working days from the presentation (I suggest to do it on Friday, or the next Monday).
 
 ## Learning Objectives
 * Learning how to recongnize good papers;
@@ -101,7 +102,7 @@ To make sure you come prepared to the seminars, you will have to answer a quiz f
 **0.75hp credit** for preparing for, attending and giving feedback to a seminar 
 *(this corresponds to almost 3 days of work: 12 hours studying the paper, preparing for the quiz and the post-seminar discussion; 5 hours for writing feedback; and 2 yours for attending the seminar)* 
 
-## Passing the Course and Attendance
+### Passing the Course and Attendance
 Attend and give enough seminars to gain 7.5 credits:
 
 1.5hp x 1 + 0.75hp x 8 = 7.5hp (1 seminar given, 8 seminars attended) -> you can skip up to 1 meeting.
