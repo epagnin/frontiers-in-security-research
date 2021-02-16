@@ -8,7 +8,7 @@ All seminars are held on **Fridays 14:00-16:00**, unless otherwise peciefied; ar
 Date, time: speaker - paper title (link to paper, link to report)
 | Date  | Speaker  | Paper Title  | Report  | 
 |---|---|---|---|
-| Feb 26  | Samuel Wairimu  |   |   |
+| Feb 26  | Samuel Wairimu  | [Website Fingerprinting with Website Oracles](https://content.sciendo.com/downloadpdf/journals/popets/2020/1/article-p235.xml)  |   |
 | March 5  | Rohon Kundu  |   |   |
 | March 12  | Anders Konring  |   |   |
 | March 19  | Syafiq Al Atiiq  |   |   |
