@@ -8,11 +8,11 @@ All seminars are held on **Fridays 14:00-16:00**, unless otherwise peciefied; ar
 Date, time: speaker - paper title (link to paper, link to report)
 | Date  | Speaker  | Paper Title  | Report  | 
 |---|---|---|---|
-| Feb 26  | Samuel Wairimu  | [Website Fingerprinting with Website Oracles](https://content.sciendo.com/downloadpdf/journals/popets/2020/1/article-p235.xml)  |   |
+| Feb 26  | Samuel Wairimu  | [Website Fingerprinting with Website Oracles](https://content.sciendo.com/downloadpdf/journals/popets/2020/1/article-p235.xml)  | [pdf](Website Fingerprinting with Website Oracles - Report.pdf)  |
 | March 5  | Rohon Kundu  |   |   |
 | March 12  | Anders Konring  |   |   |
-| March 19  | Syafiq Al Atiiq  |   |   |
-| March 26  | Jing Yang  |   |   |
+| March 19  | Jing Yang  |   |   |
+| March 26  | Syafiq Al Atiiq |   |   |
 | April 9  | Navoda Senavirathne  |   |   |
 | April 23  | Mathias Hall-Andersen  |   |   |
 | May 7  | Ivan Oleynikov  |   |   |
