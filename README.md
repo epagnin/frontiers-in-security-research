@@ -9,7 +9,7 @@ Date, time: speaker - paper title (link to paper, link to report)
 | Date  | Speaker  | Paper Title  | Report  | 
 |---|---|---|---|
 | Feb 26  | Samuel Wairimu  | [Website Fingerprinting with Website Oracles](https://content.sciendo.com/downloadpdf/journals/popets/2020/1/article-p235.xml)  | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/Website%20Fingerprinting%20with%20Website%20Oracles%20-%20Report.pdf)  |
-| March 5  | Rohon Kundu  | [New Technique for Efficient Trapdoor Functions and Applications](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17659-4_2.pdf)  |   |
+| March 5  | Rohon Kundu  | [New Technique for Efficient Trapdoor Functions and Applications](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17659-4_2.pdf)  | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/New%20Techniques%20%20-%20Report.pdf)  |
 | March 12  | Anders Konring  |   |   |
 | March 19  | Jing Yang  |   |   |
 | March 26  | Syafiq Al Atiiq |   |   |
