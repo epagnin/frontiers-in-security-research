@@ -39,7 +39,9 @@ The fisrt seminar will have all time slot shifted of about 30 mins (to accomodat
 4. Prepare a **50 minutes presentation** about the work you selected
 5. Prepare a **quiz** to assess your peers' learning of your topic
 6. _TWO DAYS BEFORE_: send me (a link to) the quiz you designed and get my approaval 
-<span style="color:blue">_Deadline: Wedensday by 13:00_</span>.  
+```diff 
+! Deadline: Wedensday by 13:00_  
+```
 7. Deliver the seminar, be active in the discussion afterwards and reflect on the feedback you receive
 
 #### Criterias On How To Select A Paper
