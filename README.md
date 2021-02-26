@@ -31,13 +31,13 @@ The fisrt seminar will have all time slot shifted of about 30 mins (to accomodat
 
 ## General Insturctions
 0. You select one paper from a top conference _(see list below)_. Be sure to pick a work you find interesting and that has important contributions
-1. Write a one-page **report/review** on the paper _(see instructions below)_ 
-2. Send the paper, your report and a short summary of **why** you chose this work to me (Elena) _(this needs to be done at least 2 weeks before your seminar slot)_
+1. _TWO WEEKS_ before your seminar slot: Send the paper details and a short summary of **why** you chose this work to me (Elena) _deadline, Friday by 11:00_
+2. _THE WEEK BEFORE_: Write and send me a one-page **report/review** on the paper (see instructions below) _deadline: Wedensday by 13:00_
 3. Get an approval for your choice by me. _(if this does not arrive within 2 days, send me a reminder)_
 4. Prepare a **50 minutes presentation** about the work you selected
 5. Prepare a **quiz** to assess your peers' learning of your topic
-6. Get my approaval for the quiz you designed _(send the quiz to me at least 3 days before the seminar)_
-7. Deliver the seminar, be active in the discussion afterwards and reflect on the feedback you receive
+7. _TWO DAYS BEFORE_: send me (a link to) the quiz you designed and get my approaval _deadline: Wedensday by 13:00_
+8. Deliver the seminar, be active in the discussion afterwards and reflect on the feedback you receive
 
 #### Criterias On How To Select A Paper
 The paper must be **accepted for publication** in one of the **major conferences in the field no earlier than 3 years ago** 
