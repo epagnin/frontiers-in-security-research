@@ -11,7 +11,7 @@ Date, time: speaker - paper title (link to paper, link to report)
 | Feb 26  | Samuel Wairimu  | [Website Fingerprinting with Website Oracles](https://content.sciendo.com/downloadpdf/journals/popets/2020/1/article-p235.xml)  | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/Website%20Fingerprinting%20with%20Website%20Oracles%20-%20Report.pdf)  |
 | March 5  | Rohon Kundu  | [New Technique for Efficient Trapdoor Functions and Applications](https://eprint.iacr.org/2018/872.pdf)  | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/New%20Techniques%20%20-%20Report.pdf)  |
 | March 12  | Anders Konring  |[Can a Public Blockchain Keep a Secret?](https://eprint.iacr.org/2020/464.pdf)   | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/cabkas-summary.pdf)  |
-| March 19  | Jing Yang  | [Modeling for Three-Subset Division Property without Unknown Subset](https://eprint.iacr.org/2020/441.pdf)  |   |
+| March 19  | Jing Yang  | [Modeling for Three-Subset Division Property without Unknown Subset](https://eprint.iacr.org/2020/441.pdf)  | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/Report%20for%20Presentation.pdf)  |
 | March 26  | Syafiq Al Atiiq | [NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities](https://www.usenix.org/system/files/sec20-afek.pdf)   |   |
 | April 9  | Navoda Senavirathne  |   |   |
 | April 23  | Mathias Hall-Andersen  |   |   |
