@@ -73,12 +73,12 @@ You can choose your favourite quiz platform (it might be fun to experiment with 
 3. it should be possible to re-take the quiz (in the end of the lecture)
 
 ## Writing the Report
-The structure of your report shouold be similar to a paper review: 
+The structure of your report should be similar to a paper review: 
 - summary of the paper's contributions
 - importance of the presented results in the field
 - what is good about it
 - what is bad or could be improved
-- 
+
 The report is expected to be around **1 page long**.
 
 ## Feedback
