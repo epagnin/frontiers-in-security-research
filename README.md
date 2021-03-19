@@ -33,7 +33,7 @@ The fisrt seminar will have all time slot shifted of about 30 mins (to accomodat
 0. You select one paper from a top conference _(see list below)_. Be sure to pick a work you find interesting and that has important contributions
 1. _TWO WEEKS_ before your seminar slot: Send the paper details and a short summary of **why** you chose this work to me (Elena) 
 **Deadline, Friday by 11:00**
-2. _THE WEEK BEFORE_: Write and send me a one-page **report/review** on the paper (see instructions below) 
+2. _THE WEEK BEFORE_: Write and send me a two-page **report/review** on the paper (see instructions below) 
 **Deadline: Wedensday by 13:00**  
 3. Get an approval for your choice by me. _(if this does not arrive within 2 days, send me a reminder)_
 4. Prepare a **50 minutes presentation** about the work you selected
@@ -74,12 +74,13 @@ You can choose your favourite quiz platform (it might be fun to experiment with 
 
 ## Writing the Report
 The structure of your report should be similar to a paper review: 
-- summary of the paper's contributions
+- background knowlege (~1 page)
+- summary of the paper's contributions (~0.5 page)
 - importance of the presented results in the field
 - what is good about it
 - what is bad or could be improved
 
-The report is expected to be around **1 page long**.
+The report is expected to be around **2 pages long**.
 
 ## Feedback
 For every seminar, half of the students will give a written feedback on the speaker's report, the other half gives a written feedback on the oral presentation. 
