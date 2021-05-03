@@ -15,7 +15,7 @@ Date, time: speaker - paper title (link to paper, link to report)
 | March 26  | Syafiq Al Atiiq | [NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities](https://www.usenix.org/system/files/sec20-afek.pdf)   | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/Report_for_Presentation.pdf)  |
 | April 9  | Navoda Senavirathne  | [Sunrise to Sunset: Analyzing the End-to-end Life Cycle and Effectiveness of Phishing Attacks at Scale](https://www.usenix.org/system/files/sec20-oest-sunrise.pdf)  | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/Written%20Report%20Navoda.pdf)  |
 | April 23  | Mathias Hall-Andersen  | [Compressed Σ-Protocol Theory and Practical Application to Plug & Play Secure Algorithmics](https://eprint.iacr.org/2020/152.pdf) | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/Mathias-report.pdf)  |
-| May 7  | Ivan Oleynikov  | [Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits](https://eprint.iacr.org/2020/338.pdf)  |   |
+| May 7  | Ivan Oleynikov  | [Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits](https://eprint.iacr.org/2020/338.pdf)  |[pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/main.pdf)   |
 | May 28  | Rasmus Dahlberg  |   |   |
 | June 4  | Joakim Brorsson  |   |   |
 
@@ -80,7 +80,7 @@ The structure of your report should be similar to a paper review:
 - what is good about it
 - what is bad or could be improved
 
-The report is expected to be around **2 pages long**.
+The report is expected to be **2-3 pages long**.
 
 ## Feedback
 For every seminar, half of the students will give a written feedback on the speaker's report, the other half gives a written feedback on the oral presentation. 
