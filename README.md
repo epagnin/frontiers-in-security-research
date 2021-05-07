@@ -2,10 +2,10 @@
 This is a **7.5hp credits PhD-level course** held by LTH. The course is in *seminar-style*: each participant will hold 1 or 2 seminars and actively participate in all other seminars. For quality assessment there are several additional tasks entailed with each seminar.
 
 ## Course Calendar
-All seminars are held on **Fridays 14:00-16:00**, unless otherwise peciefied; are *onlive* (i.e., live + online) at this [zoom link](https://lu-se.zoom.us/j/68780371625).
+All seminars are held on **Fridays 14:00-16:00**, unless otherwise speciefied; are *onlive* (i.e., live + online) at this [zoom link](https://lu-se.zoom.us/j/68780371625).
 
 ### Schedule
-Date, time: speaker - paper title (link to paper, link to report)
+Date | speaker | paper title (link to paper) | link to report
 | Date  | Speaker  | Paper Title  | Report  | 
 |---|---|---|---|
 | Feb 26  | Samuel Wairimu  | [Website Fingerprinting with Website Oracles](https://content.sciendo.com/downloadpdf/journals/popets/2020/1/article-p235.xml)  | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/Website%20Fingerprinting%20with%20Website%20Oracles%20-%20Report.pdf)  |
