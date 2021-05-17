@@ -16,7 +16,7 @@ Date | speaker | paper title (link to paper) | link to report
 | April 9  | Navoda Senavirathne  | [Sunrise to Sunset: Analyzing the End-to-end Life Cycle and Effectiveness of Phishing Attacks at Scale](https://www.usenix.org/system/files/sec20-oest-sunrise.pdf)  | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/Written%20Report%20Navoda.pdf)  |
 | April 23  | Mathias Hall-Andersen  | [Compressed Σ-Protocol Theory and Practical Application to Plug & Play Secure Algorithmics](https://eprint.iacr.org/2020/152.pdf) | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/Mathias-report.pdf)  |
 | May 7  | Ivan Oleynikov  | [Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits](https://eprint.iacr.org/2020/338.pdf)  |[pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/main.pdf)   |
-| May 28  | Rasmus Dahlberg  |   |   |
+| May 28  | Rasmus Dahlberg  | [Merkle2: A Low-Latency Transparency Log System](https://eprint.iacr.org/2021/453.pdf) |   |
 | June 4  | Joakim Brorsson  |   |   |
 
 ### Meeting Structure
