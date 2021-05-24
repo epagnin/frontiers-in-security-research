@@ -17,7 +17,7 @@ Date | speaker | paper title (link to paper) | link to report
 | April 23  | Mathias Hall-Andersen  | [Compressed Σ-Protocol Theory and Practical Application to Plug & Play Secure Algorithmics](https://eprint.iacr.org/2020/152.pdf) | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/Mathias-report.pdf)  |
 | May 7  | Ivan Oleynikov  | [Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits](https://eprint.iacr.org/2020/338.pdf)  |[pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/main.pdf)   |
 | May 28  | Rasmus Dahlberg  | [Merkle2: A Low-Latency Transparency Log System](https://eprint.iacr.org/2021/453.pdf) | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/merkle-square-report.pdf)|
-| June 4  | Joakim Brorsson  | [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf)  |   |
+| June 4  | Joakim Brorsson  | [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf)  | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/friser_report_on_perun.pdf)  |
 
 ### Meeting Structure
 | Time  | Activity  | 
