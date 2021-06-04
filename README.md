@@ -19,6 +19,9 @@ Date | speaker | paper title (link to paper) | link to report
 | May 28  | Rasmus Dahlberg  | [Merkle2: A Low-Latency Transparency Log System](https://eprint.iacr.org/2021/453.pdf) | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/merkle-square-report.pdf)|
 | June 4  | Joakim Brorsson :star:  | [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf)  | [pdf](https://github.com/epagnin/frontiers-in-security-research/blob/main/friser_report_on_perun.pdf)  |
 
+:star: = students who have attended *all* seminars
+
+
 ### Meeting Structure
 | Time  | Activity  | 
 |---|---|
